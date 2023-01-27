@@ -1,4 +1,5 @@
 //PROGRAMACION PARALELA: SUMAR DOS ARREGLOS
+//Denisse Maria Ramirez Colmenero A01561497
 #include <omp.h>
 #include <iostream>
 //include "pch.h"
